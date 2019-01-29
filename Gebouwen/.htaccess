@@ -1,0 +1,13 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule ^23$ https://www.vai.be/en/project/brugse-poort-neighbourhood-health-centre [R=302,NC,NE,L]
+RewriteRule ^24$ https://www.vai.be/en/project/k-in-kortrijk-shopping-centre [R=302,NC,NE,L]
+RewriteRule ^25$ https://www.vai.be/en/project/after-the-party-belgian-pavilion [R=302,NC,NE,L]
+RewriteRule ^26$ https://www.vai.be/en/project/arteconomy-house [R=302,NC,NE,L]
+RewriteRule ^27$ https://www.vai.be/en/project/bronks-childrens-theatre-brussels [R=302,NC,NE,L]
+RewriteRule ^28$ https://www.vai.be/en/project/c-mine-culturale-centre [R=302,NC,NE,L]
+RewriteRule ^29$ https://www.vai.be/en/project/courtyard-with-outdoor-room-smetlede [R=302,NC,NE,L]
+RewriteRule ^31$ https://www.vai.be/en/project/house-and-practice-opwijk [R=302,NC,NE,L]
+RewriteRule ^32$ https://www.vai.be/en/project/huis-aant-laar-care-home-zoersel [R=302,NC,NE,L]
+RewriteRule ^33$ https://www.vai.be/en/project/rotelenberg-house [R=302,NC,NE,L]
