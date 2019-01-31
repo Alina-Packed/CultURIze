@@ -1,6 +1,6 @@
 ![CulturizeLogo](https://github.com/PACKED-vzw/CultURIze/blob/master/static/assets/logo-culturize-klein.png)
 
-This is the GitHub repo for Culturize.
+This is the GitHub repo for Culturize. The software is still work-in-progress.
 
 ## License
 Copyright (c) 2019 PACKED vzw.
